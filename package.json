@@ -1,0 +1,30 @@
+{
+  "name": "isomorphic-ready-style-loader",
+  "version": "0.0.1",
+  "description": "Webpack style loader analogues Webpack_isomorphic_tools_plugin.css_modules_loader_parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemkaint/isomorphic-ready-style-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "css",
+    "style",
+    "isomorphic-loader"
+  ],
+  "author": {
+    "name": "Artem Soltynskiy",
+    "email": "artemkaint@gmail.com",
+    "url": "https://github.com/artemkaint"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artemkaint/isomorphic-ready-style-loader/issues"
+  },
+  "homepage": "https://github.com/artemkaint/isomorphic-ready-style-loader#readme"
+}
